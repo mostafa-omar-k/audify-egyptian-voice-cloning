@@ -78,65 +78,27 @@ Generated Audio Output
 
 ### Transcript Editing
 
-![Transcript Editing](screenshots/edit.png)
+![Transcript Editing](screenshots/edit_1.png)
+![Transcript Editing](screenshots/edit_2.png)
+
 
 ### Generated Result
 
-![Generated Audio](screenshots/result.png)
+![Generated Audio](screenshots/result_1.png)
+![Generated Audio](screenshots/result_2.png)
+
 
 ---
 
 ## 🎥 Demo
 
-### Demo Video 1
+### Demo Videos 1 & 2
 
-(Add Demo Link)
-
-### Demo Video 2
-
-(Add Demo Link)
+(https://drive.google.com/drive/folders/1KQfzSNfQ-2ImrcCITiYg76Y14y2pckws?usp=sharing)
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/audify-egyptian-voice-cloning.git
-
-cd audify-egyptian-voice-cloning
-
-pip install -r requirements.txt
-
-python app.py
-```
-
----
-
-## 📂 Project Structure
-
-```text
-audify-egyptian-voice-cloning/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── screenshots/
-├── demos/
-├── models/
-├── dataset/
-└── source_code/
-```
-
----
-
-## 👥 Team
-
-Graduation Project Team
-
-Faculty of Engineering / Computer Science / Artificial Intelligence
-
----
 
 ## 🏆 Project Outcome
 
