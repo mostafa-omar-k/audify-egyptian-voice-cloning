@@ -37,6 +37,18 @@ Generated Audio Output
 ```
 
 ---
+## 📁 Dataset Preparation
+
+One of the main challenges of this project was the lack of high-quality Egyptian Arabic speech datasets.
+
+To overcome this challenge:
+
+* Recorded custom Egyptian Arabic audio samples.
+* Created corresponding text transcripts.
+* Removed background noise.
+* Trimmed silence segments.
+* Cleaned and organized the dataset.
+* Prepared data for model fine-tuning.
 
 ## 🧠 Technologies Used
 
